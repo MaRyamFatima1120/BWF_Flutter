@@ -9,6 +9,7 @@ Seller Module: Manage product listings and track orders.
 #Frontend
 Check out the frontend design in the video below:
 https://drive.google.com/file/d/1eK-Xja3lUcOXlxCOR4C5qrPEZJ1bTSGC/view?usp=sharing
+
 #Backend
 Here’s a glimpse of the backend setup:
 https://drive.google.com/file/d/1MYQRMjDdQckH-v962AZiGyVCpErnHiFt/view?usp=drive_link
