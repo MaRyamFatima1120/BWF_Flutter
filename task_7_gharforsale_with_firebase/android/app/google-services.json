@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1079651815687",
+    "project_id": "gharforsale-with-firebase",
+    "storage_bucket": "gharforsale-with-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079651815687:android:8a3974e32d658d231c75a2",
+        "android_client_info": {
+          "package_name": "com.example.task_7_gharforsale_with_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiLVH_QkLy08Vv_5Rtx57L_URTU0hBq0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079651815687:android:e186e82b2e412cc61c75a2",
+        "android_client_info": {
+          "package_name": "com.sale.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiLVH_QkLy08Vv_5Rtx57L_URTU0hBq0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
