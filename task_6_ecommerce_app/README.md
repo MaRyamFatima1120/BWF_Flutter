@@ -1,4 +1,4 @@
-# 🛒 Task6 eCommerce App – Flutter + Firebase
+# 🛒 ECommerce App – Flutter + Firebase
 
 A functional **E-Commerce mobile application** built with **Flutter** and **Firebase**.  
 This app includes **Buyer** and **Seller** modules with implemented core functionality, forming a strong base to expand into a fully featured marketplace.
